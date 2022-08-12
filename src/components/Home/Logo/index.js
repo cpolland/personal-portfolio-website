@@ -20,7 +20,7 @@ const Logo = () => {
       })
       .from(outlineLogoRef.current, {
         drawSVG: 0,
-        duration: 15,
+        duration: 10,
       })
 
     gsap.fromTo(
@@ -31,7 +31,7 @@ const Logo = () => {
       {
         opacity: 1,
         delay: 4,
-        duration: 4,
+        duration: 5,
       }
     )
   }, [])
@@ -59,7 +59,7 @@ const Logo = () => {
         >
           <path
             ref={outlineLogoRef}
-            d="M-1000 -400 L 2750 -325 L 3170 800 L 4500 800 L 5075 2700 L -100 2700 L -500 -1 "
+            d="M-1000 -300 L 2750 -325 L 3170 800 L 4500 800 L 5075 2700 L -100 2700 L -500 -1 "
           />
         </g>
       </svg>

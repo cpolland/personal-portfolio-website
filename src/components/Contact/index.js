@@ -20,7 +20,12 @@ const Contact = () => {
     e.preventDefault()
 
     emailjs
-      .sendForm('gmail', 'template_YeJhZkgb', form.current, 'your-token')
+      .sendForm(
+        'service_uopiu5o',
+        'template_rz9lqhh',
+        form.current,
+        'U6zOf-YNQxpJjiJxn'
+      )
       .then(
         () => {
           alert('Message successfully sent!')
@@ -44,9 +49,9 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I am interested in freelance opportunities - especially ambitious or
-            large projects. However, if you have other request or question,
-            don't hesitate to contact me using below form either.
+            I am currently looking for junior web development jobs. I am also
+            intrested in freelance work if needed. If you have any other
+            questions you can use the form below or email me.
           </p>
           <div className="contact-form">
             <form ref={form} onSubmit={sendEmail}>
@@ -85,20 +90,19 @@ const Contact = () => {
           </div>
         </div>
         <div className="info-map">
-          Slobodan Gajić,
+          Cody Polland,
           <br />
-          Serbia,
+          San Diego,
           <br />
-          Branka RadiČevića 19, 22000 <br />
-          Sremska Mitrovica <br />
+          California, 92104 <br />
           <br />
-          <span>freelancerslobodan@gmail.com</span>
+          <span>Cody.Polland@gmail.com</span>
         </div>
         <div className="map-wrap">
-          <MapContainer center={[44.96366, 19.61045]} zoom={13}>
+          <MapContainer center={[32.7157, 117.1611]} zoom={13}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            <Marker position={[44.96366, 19.61045]}>
-              <Popup>Sloba lives here, come over for a cup of coffee :)</Popup>
+            <Marker position={[32.7157, 117.1611]}>
+              <Popup>Sloba lives here, come over for a cup of coffee :</Popup>
             </Marker>
           </MapContainer>
         </div>
