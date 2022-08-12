@@ -1,34 +1,23 @@
+
 {
     "portfolio": [
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/food-flix/food-flix.png",
+            "title": "Food-Flix",
+            "description": "FoodFlix",
+            "url": "https://lgarcia196.github.io/Food-Flix-Project-1/"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/food-flix/adopt-a-owner/adopt-a-owner.png",
+            "title": "Adopt-a-Owner",
+            "description": "Adopt-a-Owner",
+            "url": "https://radiant-wave-08847.herokuapp.com/"
         },
         {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
+            "cover": "/portfolio/food-flix/sweet-cheeks/sweet-cheeks.png",
+            "title": "Sweet-Cheeks",
+            "description": "Sweet-Cheeks",
+            "url": "https://agile-beyond-87393.herokuapp.com/"
         }
     ]
 }

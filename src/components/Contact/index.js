@@ -21,7 +21,7 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        'service_uopiu5o',
+        'service_uopiu5o ',
         'template_rz9lqhh',
         form.current,
         'U6zOf-YNQxpJjiJxn'
@@ -99,10 +99,10 @@ const Contact = () => {
           <span>Cody.Polland@gmail.com</span>
         </div>
         <div className="map-wrap">
-          <MapContainer center={[32.7157, 117.1611]} zoom={13}>
+          <MapContainer center={[32.731202, -117.144877]} zoom={13}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            <Marker position={[32.7157, 117.1611]}>
-              <Popup>Sloba lives here, come over for a cup of coffee :</Popup>
+            <Marker position={[32.752762, -117.128567]}>
+              <Popup>This is Cody's home! </Popup>
             </Marker>
           </MapContainer>
         </div>
