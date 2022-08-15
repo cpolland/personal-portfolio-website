@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": "16.x",
+    "node": "16.14.2",
     "npm": "7.x"
   },
   "dependencies": {
@@ -35,7 +35,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "web": "react-scripts start"
   },
   "eslintConfig": {
     "extends": [
