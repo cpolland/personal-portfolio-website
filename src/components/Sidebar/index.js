@@ -53,7 +53,7 @@ const Sidebar = () => {
         </li>
         <li>
           <a
-            href="https://github.com/bobangajicsm"
+            href="https://github.com/cpolland"
             target="_blank"
             rel="noreferrer"
           >
