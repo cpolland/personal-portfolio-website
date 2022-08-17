@@ -33,18 +33,37 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm very ambitious front-end developer looking for a role in
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+            Hi, I'm Cody Polland! I am a 29 year old web developer from Denver,
+            Colorado and currently living in San Diego, CA. I attended
+            university at Savannah College of Art and Design and have my
+            certification in full-stack web development from The University of
+            California San Diego UCSD. I learned full-stack web-dev but mainly
+            focus on front-end development due to my love for design. I am
+            knowledgable of both visual design and UX design. I am efficient in
+            HTML, CSS, JavaScript, React, and I am familiar with a range of
+            programs on the back-end. I love learning new langages and frame
+            works when need be!
           </p>
           <p align="LEFT">
-            I'm quietly confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+            If someone were to describe me they would say I am a jack of all
+            trades, a master of some. I thrive best in collaborative work
+            environments and I am persevering . I like to work with teams but
+            excel on my own as well. I have been in Web Development for a year
+            and strive to keep expanding my knowledge of all things coding.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+            What gives my life purpose is creating things I am passionate about.
+            Whether those things be tangible things or digital things; I enjoy
+            the creation process and the satisfaction of a finished product the
+            most. My hobbies include crocheting, illustration, photography,
+            sound design, sewing, and many more. I consider myself to be an
+            extremely compassionate person and I connect with pretty much anyone
+            who wants to connect with me. When I am not coding or crafting, you
+            can find me spending time with my boyfriend and my dog Riley.
+          </p>
+          <p>
+            This app was created with: React - GSAP - FortAwesome - JavaScript -
+            CSS with Sass.
           </p>
         </div>
 

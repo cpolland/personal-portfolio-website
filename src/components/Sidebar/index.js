@@ -2,7 +2,11 @@ import './index.scss'
 import LogoS from '../../assets/images/logo-s.png'
 import LastName from '../../assets/images/polland.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons'
+import {
+  faLinkedin,
+  faGithub,
+  faTiktok,
+} from '@fortawesome/free-brands-svg-icons'
 import {
   faHome,
   faUser,
@@ -58,6 +62,15 @@ const Sidebar = () => {
             rel="noreferrer"
           >
             <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.tiktok.com/@copocraft?lang=en"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <FontAwesomeIcon icon={faTiktok} color="#4d4d4e" />
           </a>
         </li>
       </ul>
