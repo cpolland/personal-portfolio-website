@@ -64,15 +64,6 @@ const Sidebar = () => {
             <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
           </a>
         </li>
-        <li>
-          <a
-            href="https://www.tiktok.com/@copocraft?lang=en"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FontAwesomeIcon icon={faTiktok} color="#4d4d4e" />
-          </a>
-        </li>
       </ul>
     </div>
   )
