@@ -18,6 +18,13 @@
             "title": "Sweet-Cheeks",
             "description": "Sweet-Cheeks",
             "url": "https://agile-beyond-87393.herokuapp.com/"
+        },
+        {
+            "cover": "/portfolio/food-flix/landing-page.png",
+            "title": "Weather Dashboard",
+            "description": "Weather Dashboard",
+            "url": "https://cpolland.github.io/weather-dashboard-codyp/"
         }
+        
     ]
 }
