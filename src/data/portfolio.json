@@ -24,7 +24,26 @@
             "title": "Weather Dashboard",
             "description": "Weather Dashboard",
             "url": "https://cpolland.github.io/weather-dashboard-codyp/"
+        },
+        {
+            "cover": "/portfolio/food-flix/written-items.png",
+            "title": "Day Planner",
+            "description": "Day Planner",
+            "url": "https://cpolland.github.io/agenda_codyp/"
+        },
+        {
+            "cover": "/portfolio/food-flix/quiz-code.jpg",
+            "title": "Code Quiz",
+            "description": "Code Quiz",
+            "url": "https://cpolland.github.io/quiz-code-codypolland/"
+        },
+        {
+            "cover": "/portfolio/food-flix/password-gen.png",
+            "title": "Password Generator",
+            "description": "Password Generator",
+            "url": "https://cpolland.github.io/Passwor-Generator-Cody-Polland/"
         }
+        
         
     ]
 }
