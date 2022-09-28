@@ -43,15 +43,15 @@ const About = () => {
             HTML, CSS, JavaScript, React, and I am familiar with a range of
             programs on the back-end. I love learning new langages and frame
             works when need be!
-          </p>
-          <p>
+            <br></br>
+            <br></br>
             If someone were to describe me they would say I am a jack of all
             trades, a master of some. I thrive best in collaborative work
             environments and I am persevering . I like to work with teams but
             excel on my own as well. I have been in Web Development for a year
             and strive to keep expanding my knowledge of all things coding.
-          </p>
-          <p>
+            <br></br>
+            <br></br>
             What gives my life purpose is creating things I am passionate about.
             Whether those things be tangible things or digital things; I enjoy
             the creation process and the satisfaction of a finished product the
@@ -60,8 +60,8 @@ const About = () => {
             extremely compassionate person and I connect with pretty much anyone
             who wants to connect with me. When I am not coding or crafting, you
             can find me spending time with my boyfriend and my dog Riley.
-          </p>
-          <p>
+            <br></br>
+            <br></br>
             This app was created with: React - GSAP - FortAwesome - JavaScript -
             CSS with Sass.
           </p>

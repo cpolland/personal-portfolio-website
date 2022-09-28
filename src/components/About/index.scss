@@ -82,32 +82,29 @@
 $breakpoint-phone: 400px;
 @media (max-width: $breakpoint-phone) {
 .about-page{
-  .text-zone{}
-  
   h1{
     width: 200%;
     position: absolute;
-    top: 250px;
+    top: -15px;
+    
   }
   p{
-    background-color: #ec4d28;
+
     min-width: 300px;
-    
-    
+    position: absolute;
+    top: 50px;
   }
-    
-  
 }
 
 
   .stage-cube-cont {
-    width: 50%;
+    width: 100%;
     height: 100%;
     top: 0%;
     padding-top: 18%;
     margin-left: 0;
     position: absolute;
-    left: 10%;
+    left: 0%;
     overflow: hidden;
   }
   
