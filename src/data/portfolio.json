@@ -4,18 +4,21 @@
         {
             "cover": "/portfolio/food-flix/food-flix.png",
             "title": "Food-Flix",
-            "description": "FoodFlix",
+            "tools": "JavaScrpit, Bulma, IMBD/Recipe API",
+            "description": "A resource to help users find the perfect recipe and movie pair for indecisive individuals.",
             "url": "https://lgarcia196.github.io/Food-Flix-Project-1/"
         },
         {
             "cover": "/portfolio/food-flix/adopt-a-owner/adopt-a-owner.png",
             "title": "Adopt-a-Owner",
+            "tools": "JavaScrpit, Bootstrap, Node.JS, Express.JS, mySQL, Sequelize, Handlebars",
             "description": "Adopt-a-Owner",
             "url": "https://radiant-wave-08847.herokuapp.com/"
         },
         {
             "cover": "/portfolio/food-flix/sweet-cheeks/sweet-cheeks.png",
             "title": "Sweet-Cheeks",
+            "tools": "JavaScrpit, Bootstrap, Node.JS, Express.JS, mySQL, Sequelize, Google Fonts",
             "description": "Sweet-Cheeks",
             "url": "https://agile-beyond-87393.herokuapp.com/"
         },
@@ -23,17 +26,20 @@
             "cover": "/portfolio/food-flix/landing-page.png",
             "title": "Weather Dashboard",
             "description": "Weather Dashboard",
+            "tools": "JavaScrpit, Bootstrap, Open Weather API",
             "url": "https://cpolland.github.io/weather-dashboard-codyp/"
         },
         {
             "cover": "/portfolio/food-flix/written-items.png",
             "title": "Day Planner",
             "description": "Day Planner",
+            "tools": "JavaScrpit, Local Storage, Bootstrap CSS",
             "url": "https://cpolland.github.io/agenda_codyp/"
         },
         {
             "cover": "/portfolio/food-flix/quiz-code.jpg",
             "title": "Code Quiz",
+            "tools": "JavaScrpit",
             "description": "Code Quiz",
             "url": "https://cpolland.github.io/quiz-code-codypolland/"
         },
@@ -41,11 +47,13 @@
             "cover": "/portfolio/food-flix/password-gen.png",
             "title": "Password Generator",
             "description": "Password Generator",
+            "tools": "JavaScrpit",
             "url": "https://cpolland.github.io/Passwor-Generator-Cody-Polland/"
         },
         {
             "cover": "/portfolio/food-flix/Screen Shot 2022-10-06 at 12.26.26 PM.png",
             "title": "Copo Craft - Wordpress - In Development",
+            "tools": "WordPress",
             "description": "Copo Craft Website",
             "url": "https://copocraft.com/"
         }
