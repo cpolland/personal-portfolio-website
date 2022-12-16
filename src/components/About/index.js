@@ -41,7 +41,7 @@ const About = () => {
             to be an extremely compassionate person and I connect with pretty
             much anyone who wants to connect with me. When I am not coding or
             crafting, you can find me spending time with my boyfriend and my dog
-            Riley.
+            Riley!
             <br></br>
             <br></br>I am a 29 year old web developer from Denver, Colorado and
             currently living in San Diego, CA. I attended university at Savannah
